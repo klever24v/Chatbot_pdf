@@ -152,4 +152,3 @@ GitHub: [klever24v](https://github.com/klever24v)
 
 ---
 
-¡Listo para usar e integrar con CopilotKit en tu frontend React! 🎯
